@@ -8,7 +8,7 @@ import java.util.Random;
  * @date:   2020年1月3日 上午9:07:35
  */
 public class RandomUtil {
-	/**
+	/**  
 	 * @Title: random   
 	 * @Description: 获得指定区间的随机数   
 	 * @param: @param min

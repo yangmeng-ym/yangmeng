@@ -11,6 +11,7 @@ import java.util.Date;
  * @date:   2020年1月3日 上午9:06:21
  */
 public class DataUtil {
+	
 	public static SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd");
 	public static SimpleDateFormat dateTimeFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
 	/**

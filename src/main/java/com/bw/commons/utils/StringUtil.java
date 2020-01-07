@@ -9,7 +9,7 @@ import java.util.Random;
  * @date:   2020年1月3日 上午9:08:16
  */
 public class StringUtil {
-	/**
+	/**   
 	 * @Title: isNull   
 	 * @Description: 判断字符串是否为空   
 	 * @param: @param str

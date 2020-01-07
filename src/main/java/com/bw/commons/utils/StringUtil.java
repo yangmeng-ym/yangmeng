@@ -16,7 +16,7 @@ public class StringUtil {
 	 * @param: @return      
 	 * @return: boolean      
 	 * @throws
-	 */
+	 */   
 	public static boolean isNull(String str) {
 		if(str==null) {
 			return true;

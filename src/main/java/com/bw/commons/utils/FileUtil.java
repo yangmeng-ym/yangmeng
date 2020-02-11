@@ -6,7 +6,7 @@ package com.bw.commons.utils;
  */
 public class FileUtil {
 	
-	public String getExtName(String str) {
+	public static String getExtName(String str) {
 		if(StringUtil.isNull(str)) {
 			return null;
 		}  
